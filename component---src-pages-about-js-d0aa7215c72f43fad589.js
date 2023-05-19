@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchatbus_homepage=self.webpackChunkchatbus_homepage||[]).push([[682],{5465:function(e,t,h){h.r(t);var a=h(7294);t.default=()=>a.createElement("p",null,"Hi there! I'm the proud creator of this site, which I built with Gatsby.")}}]);
+//# sourceMappingURL=component---src-pages-about-js-d0aa7215c72f43fad589.js.map
